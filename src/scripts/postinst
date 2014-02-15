@@ -1,0 +1,6 @@
+#!/bin/sh
+
+rm -rf /var/services/web/navphp
+mv /var/packages/PHPNavigator/target/navphp /var/services/web/navphp
+
+exit 0

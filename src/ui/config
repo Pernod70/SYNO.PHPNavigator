@@ -1,0 +1,15 @@
+{
+	".url": {
+		"SYNO.SDS.PHPNavigator": {
+			"type": "url",
+			"allUsers": true,
+			"title": "app:app_name",
+			"desc": "app:description",
+			"icon": "images/PHPNavigator_{0}.png",
+			"texts": "texts",
+			"protocol": "http",
+			"url": "/navphp/",
+			"port": "80"
+		}
+	}
+}
